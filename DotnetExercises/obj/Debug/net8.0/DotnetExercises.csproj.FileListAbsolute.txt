@@ -1,0 +1,15 @@
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\bin\Debug\net8.0\DotnetExercises.exe
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\bin\Debug\net8.0\DotnetExercises.deps.json
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\bin\Debug\net8.0\DotnetExercises.runtimeconfig.json
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\bin\Debug\net8.0\DotnetExercises.dll
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\bin\Debug\net8.0\DotnetExercises.pdb
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\obj\Debug\net8.0\DotnetExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\obj\Debug\net8.0\DotnetExercises.AssemblyInfoInputs.cache
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\obj\Debug\net8.0\DotnetExercises.AssemblyInfo.cs
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\obj\Debug\net8.0\DotnetExercises.csproj.CoreCompileInputs.cache
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\obj\Debug\net8.0\DotnetExercises.sourcelink.json
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\obj\Debug\net8.0\DotnetExercises.dll
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\obj\Debug\net8.0\refint\DotnetExercises.dll
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\obj\Debug\net8.0\DotnetExercises.pdb
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\obj\Debug\net8.0\DotnetExercises.genruntimeconfig.cache
+C:\Users\Supre\RiderProjects\DotnetExercises\DotnetExercises\obj\Debug\net8.0\ref\DotnetExercises.dll
